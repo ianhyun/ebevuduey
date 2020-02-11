@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeseaxeig.osgi.org.cn/sitemap.xml
